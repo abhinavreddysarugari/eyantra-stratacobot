@@ -211,9 +211,9 @@ ros2 run algorithms task2B_navigation.py
 ## 👥 Authors & Team Credits
 
 **Team SC#4096**
+- **Abhinav Reddy**
 - **Aditya M.**
 - **Siddarth**
-- **Abhinav**
 - **Dinesh**
 
 *Organized by **e-Yantra (IIT Bombay)**, funded by MoE, Government of India.*
